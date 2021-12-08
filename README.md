@@ -1,1 +1,2 @@
 # Project3
+The original plan with this project was to have multiple players play blackjack at the same table against a dealer. This would have been done through having different users first enter a page where they 'sign in' by entering their name into some database, then go join the table. Due to problems with both creating the server/database and coding blackjack from scratch in python, the compromise was a very dumbed down, simple version of the game where a single player would play a dealer.
